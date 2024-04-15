@@ -28,22 +28,28 @@
     <loc>/reference/Temp12k.html</loc>
   </url>
   <url>
-    <loc>/reference/compositeDCC.html</loc>
-  </url>
-  <url>
     <loc>/reference/compositeEnsembles.html</loc>
   </url>
   <url>
     <loc>/reference/compositeEnsembles2.html</loc>
   </url>
   <url>
-    <loc>/reference/compositeSCC.html</loc>
-  </url>
-  <url>
     <loc>/reference/index.html</loc>
   </url>
   <url>
+    <loc>/reference/new_composite.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plot.paleoComposite.html</loc>
+  </url>
+  <url>
     <loc>/reference/plotComposite.html</loc>
+  </url>
+  <url>
+    <loc>/reference/print.paleoComposite.html</loc>
+  </url>
+  <url>
+    <loc>/reference/printComposite.html</loc>
   </url>
   <url>
     <loc>/reference/recordRMSE.html</loc>
