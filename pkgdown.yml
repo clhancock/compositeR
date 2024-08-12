@@ -1,8 +1,7 @@
 pandoc: 3.1.11
-pkgdown: 2.0.8
+pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
   Temp12k_IceCore: Temp12k_IceCore.html
   Temp12k-DCC: Temp12k-DCC.html
-last_built: 2024-04-16T16:05Z
-
+last_built: 2024-08-12T18:00Z
